@@ -9,9 +9,9 @@
 
 I specialize in Embedded Systems, Firmware Architecture, and Scientific Automation. I work with <a href="https://github.com/SunDevilRocketry" target="_blank"><b><font color="#8C1D40">Sun Devil Rocketry</font></b></a> on rev3 development & liquid architecture while pursuing research at the <a href="https://rolston.lab.asu.edu/" target="_blank"><b><font color="#00A3E0">Rolston Lab</font></b></a> relating to Perovskite measurements and future memristor work.
 
-![Sun Devil Rocketry](https://img.shields.io/badge/Sun%20Devil%20Rocketry-Avionics-red?style=flat-square) ![Rolston Lab](https://img.shields.io/badge/Rolston%20Lab-Research-blue?style=flat-square)  
+[![](https://img.shields.io/badge/Sun%20Devil%20Rocketry-8C1D40?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/SunDevilRocketry) [![](https://img.shields.io/badge/Rolston%20Lab-00A3E0?style=for-the-badge&logo=google-scholar&logoColor=white)](https://rolston.lab.asu.edu/)  
 
-
+  
 ### Tech Stack / Skills
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -32,4 +32,6 @@ I specialize in Embedded Systems, Firmware Architecture, and Scientific Automati
 ### Recent Projects
 - 🟢 **<a href="https://github.com/MasterUser43/MultiplexSolarSim" target="_blank"><b><font color="#2ECC71">MultiplexSolarSim</font></b></a>**: (Rolston Lab) A JV measurement suite for Perovskite solar cell research.
 - 🟣 **<a href="https://github.com/SunDevilRocketry/LQD-DAQ" target="_blank"><b><font color="#9B59B6">LQD-DAQ</font></b></a>**: (Sun Devil Rocketry) Leading the firmware development for Liquid Propulsion Data Acquisition systems.
+
+[![](https://img.shields.io/badge/MultiplexSolarSim-2ECC71?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MasterUser43/MultiplexSolarSim) [![](https://img.shields.io/badge/LQD--DAQ-9B59B6?style=for-the-badge&logo=target&logoColor=white)](https://github.com/SunDevilRocketry/LQD-DAQ)
 
