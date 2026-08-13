@@ -28,10 +28,9 @@ I specialize in Embedded Systems, Firmware Architecture, and Scientific Automati
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ### Recent Projects
-- 🟢 **<a href="https://github.com/MasterUser43/MultiplexSolarSim" target="_blank"><b><font color="#2ECC71">MultiplexSolarSim</font></b></a>**: (Rolston Lab) A JV measurement suite for Perovskite solar cell research.
+- 🟢 **<a href="https://github.com/rolston-lab-asu/PixelMux" target="_blank"><b><font color="#2ECC71">Pixel Mux</font></b></a>**: (Rolston Lab) A measurement suite for Perovskite solar cell research.
 - 🟣 **<a href="https://github.com/SunDevilRocketry/LQD-DAQ" target="_blank"><b><font color="#9B59B6">LQD-DAQ</font></b></a>**: (Sun Devil Rocketry) Leading the firmware development for Liquid Propulsion Data Acquisition systems.
 
-[![](https://img.shields.io/badge/MultiplexSolarSim-2ECC71?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MasterUser43/MultiplexSolarSim) [![](https://img.shields.io/badge/LQD--DAQ-9B59B6?style=for-the-badge&logo=target&logoColor=white)](https://github.com/SunDevilRocketry/LQD-DAQ)
+[![](https://img.shields.io/badge/PixelᅠMux-2ECC71?style=for-the-badge&logo=python&logoColor=white)](https://github.com/rolston-lab-asu/PixelMux) [![](https://img.shields.io/badge/LQD--DAQ-9B59B6?style=for-the-badge&logo=target&logoColor=white)](https://github.com/SunDevilRocketry/LQD-DAQ)
 
